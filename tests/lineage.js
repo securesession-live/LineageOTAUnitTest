@@ -1,5 +1,5 @@
 var unirest = require('unirest'),
-    OtaHost = 'https://download.lineageos.org'; // Place here you OTA Server Url
+    OtaHost = 'https://ota.securesession.live'; // Place here you OTA Server Url
 
 // Provide a list of current LineageOS available updates
 var getLineageList = function(){
